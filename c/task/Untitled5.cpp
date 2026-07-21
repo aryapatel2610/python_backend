@@ -9,18 +9,13 @@ int main(){
 		 
 	 	printf("%c",ch);
 	 }
+	      ch++;
 	 	 printf("\n");
-	 	  c=ch++;
+	 	
 
 	 }
 	return 0;
 }
 
-/*
-1
-12
-123
-1234
-12345
-*/
+
 

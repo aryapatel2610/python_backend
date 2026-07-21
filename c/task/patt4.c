@@ -10,17 +10,11 @@ int main(){
 	 	printf("%c",ch);
 	 }
 	 	 printf("\n");
-	 	  c=ch++;
+	 	ch++;
 
 	 }
 	return 0;
 }
 
-/*
-1
-12
-123
-1234
-12345
-*/
+
 
