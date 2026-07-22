@@ -14,4 +14,6 @@ void main()
 {
 	printf("test : %d",try());
 	getch();
+	
+	
 }
